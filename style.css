@@ -95,8 +95,16 @@
 .a10{
     position: absolute;
     top: 29%;
-    left: 15.5%;
+    left: 13%;
     font-family: Oswald;
     font-size: larger;
     font-weight: 600;
+}
+.l1{
+    color: black;
+    text-decoration: none;
+    word-spacing: 8px;
+}
+.a11{
+    background-color: black;
 }
