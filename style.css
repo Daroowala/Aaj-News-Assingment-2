@@ -1,0 +1,102 @@
+.a1{
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+    text-underline-offset: 50%;
+    text-decoration-color: green;
+    margin-left: 20%;
+    position: absolute;
+    top: 5%;
+    font-size: larger;
+    
+}
+.a2{
+    color: lightslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+    text-underline-offset: 50%;
+    text-decoration-color: green;
+    margin-left: 18.7%;
+    position: absolute;
+    top: 11%;
+}
+.a3{
+    color: lightslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+    text-underline-offset: 50%;
+    text-decoration-color: green;
+    margin-left: 15.2%;
+    position: absolute;
+    top: 17%;
+    text-decoration: none;
+}
+.a4{
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+    text-underline-offset: 50%;
+    text-decoration-color: green;
+    margin-left: 70%;
+    position: absolute;
+    top: 5%;
+    font-weight: 800;
+    font-size: larger;
+}
+.a5{
+    color: lightslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+    text-underline-offset: 50%;
+    text-decoration-color: green;
+    margin-left: 66.5%;
+    position: absolute;
+    top: 11%;
+}
+.a6{
+    color: lightslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+    text-underline-offset: 50%;
+    text-decoration-color: green;
+    margin-left: 63.5%;
+    position: absolute;
+    top: 17%;
+    text-decoration: none;
+}
+.a7{
+    width: 80px;
+    height: 129.95px;
+    margin-left: 43.5%;
+    position: absolute;
+    top: 1%;
+}
+.a8{
+    color: lightslategray;
+    font-family: Roboto;
+    margin-left: 36.5%;
+    position: absolute;
+    top: 21%;
+    font-size: small;
+}
+.a9{
+    width: 100%;
+    height: 1.5px;
+    position: absolute;
+    top: 25%;
+    background-color: black;
+}
+.a10{
+    position: absolute;
+    top: 29%;
+    left: 15.5%;
+    font-family: Oswald;
+    font-size: larger;
+    font-weight: 600;
+}
